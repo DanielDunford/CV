@@ -1,8 +1,12 @@
-## Your Name
+## Dan Dunford
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+My passion of self-led learning ignited in 2018, upon completing a remote full-time Psychology Degree. This passion to learn keeps me focused and resilient, skills I intend to utilise and evolve with a career in Software Development.
 
-## Projects
+My first exposure to careers in Tech came via my role as a Software Development Recruitment Consultant in 2019. Whilst recruitment was not for me, the constantly evolving Software Development industry intrigued me and led to insightful conversations with Makers graduates.
+
+Fast forward to today, I am currently studying coding at the highly-regarded Makers Academy Bootcamp and hope to be part of some exciting and innovative tech for good in the near future.
+
+## Projects [TO DO]
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -11,67 +15,94 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Le Tennis, Sussex (Sept '20 - Sept '22)**  
+**_Tennis Coach, Level 3_**
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Hays Recruitment Ltd, Dublin (Sept '19 - Sept '20)**  
+**_Senior Technology Consultant_**
 
-- Any experience relevent to software development
+- Achieved fast track promotion due to overachieving KPI’s inc strongest placement record within IT
 
-## Skills
+- Lead a team of 5, focusing on software development, data science and cyber security 
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+- Consistently propose and implement business strategy ideas to advance the reach of the team
 
--STAR
--What was the situation/task? (ST)
+- Initiated partnership with the Dublin Business Innovation Centre, targeting female entrepreneurs with funding
 
--How was the skill used?
+- Presented to several start up founders and CEO’s regarding the hiring market and how the technical landscape is due to evolve
 
--What did you do? (action)
+- Train colleagues on several technical systems i.e. One Touch and Sales Planner
 
--What was the result?
+- Produce and present weekly operational reports to the wider IT team
+
+**Hays Recruitment Ltd, London (Nov '18 - Sept '19)**  
+**_Recruitment Consultant, Software Development_**
+
+- Achieved promotion after intensive 6-month training as Associate Consultant and achieving all KPI’s 
+
+- Interviewed and placed senior software developers in the permanent market 
+
+- Partnered with several clients to assist with best hiring practice 
+
+- Presented market insight and digital strategy to directors within the business 
+
+**Le Tennis, Sussex (Sept '10 - Sept '18)**  
+**_Tennis Coach, Level 2_**
+
+## **Skills**
+ 
+
+- Experience in reading and producing scientific studies
+
+- Developed and ran Pyschology experiments and reported findings using SPSS and Python. 
+
+- Experienced in self led learning 
+
+- Strong communicator
+
+- Analytical approach to problem solving 
+
+- A passion for learning
+
+- Adaptive approach to finding the best solution 
+
+- Experience leading a team 
+
+- Experience explaining detailed concepts in an understandable manner
+
+- Growth mindset 
 
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (Oct '22 - Jan '23) [TO DO]
+- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
+- Other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The Open University (Oct '15 - Jun '18)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc (Hons) Psychology
+- 1st class honors
+- Studied 100% remotely, alongside full time work
 
-#### Any other qualifications
+#### Other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+The British Psychological Society – BPS Graduate Member, issued 2018
+
+CHEK Institute – C.H.E.K Holistic Lifestyle Coach, issued 2012
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+**Running:** I completed the Brighton Marathon with my brother in 2015, raising over £2000 for a mental health charity.
+
+**Reading:** I am an avid reader, with a particular love of non-fiction books that expand my mind and challenge ways of thinking.
+
+**Sports:** I enjoy getting involved in any sports, from playing semi-professional football, to coaching performance tennis players in my career. 
